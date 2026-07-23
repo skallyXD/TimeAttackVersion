@@ -1,6 +1,18 @@
+# Shop aktivieren oder deaktivieren
 shop_enabled=true
+
+# Angebot aktivieren
 offer_enabled=true
+
+# Hut-ID, der im Angebot ist (Index in deiner hats-Liste)
 offer_hat=3
+
+# Angebotspreis
 offer_price=50
-hat_3=150
-hat_7=300
+
+# Einzelpreise für Hüte (optional)
+hat_0=100
+hat_1=150
+hat_2=200
+hat_3=300
+hat_4=500
