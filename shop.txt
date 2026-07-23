@@ -1,0 +1,6 @@
+shop_enabled=true
+offer_enabled=true
+offer_hat=3
+offer_price=50
+hat_3=150
+hat_7=300
