@@ -11,7 +11,7 @@ offer_hat=3
 offer_price=50
 
 # Einzelpreise für Hüte (optional)
-hat_0=100
+hat_5=100
 hat_1=150
 hat_2=200
 hat_3=300
