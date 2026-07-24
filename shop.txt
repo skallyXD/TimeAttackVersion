@@ -2,7 +2,7 @@
 shop_enabled=true
 
 # Welche Items im Shop angezeigt werden (IDs aus deiner hats-Liste)
-items=0,3,7,12
+items=0,2,14,12
 
 # Angebot aktivieren
 offer_enabled=true
@@ -15,6 +15,6 @@ offer_price=50
 
 # Einzelpreise für Hüte (optional)
 hat_0=50
-hat_3=40
+hat_2=40
 hat_14=40
 hat_12=40
